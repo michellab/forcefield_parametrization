@@ -1,0 +1,7 @@
+# About
+
+In this repository you can find useful scripts I have used to test
+Paramfit and for force field studies
+
+
+alanine_DFT : test with Paramfit on a alanine molecule optimization with b3lyp/6-31 G
